@@ -1,4 +1,4 @@
-Project 2: Ames Iowa Housing Prices Analysis 
+# Ames Iowa Housing Prices Analysis 
 
 by: Elton Yeo
 
