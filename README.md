@@ -1,6 +1,6 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 2: Ames Iowa Housing Prices Analysis - by Elton Yeo, DSI13
+Project 2: Ames Iowa Housing Prices Analysis 
 
-by: Elton Yeo, DSI13
+by: Elton Yeo
 
 ### Context and Problem Statement
 
